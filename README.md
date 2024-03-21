@@ -1,1 +1,1 @@
-"# 04_tables_DPI_23_1_Gomarnik_Sergey" 
+Лабораторная 4. Tables. ДПИ-23-1. Гомарник Сергей
